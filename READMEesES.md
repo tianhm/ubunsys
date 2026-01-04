@@ -16,11 +16,10 @@
     <a href="https://github.com/adgellida/ubunsys/releases/latest" target="_blank"><img src="https://img.shields.io/github/downloads/adgellida/ubunsys/total.svg" alt="total downloads"></a>
     <a href="https://github.com/adgellida/ubunsys/releases/latest" target="_blank"><img src="https://img.shields.io/github/downloads/adgellida/ubunsys/v2020.08.25/total.svg" alt="total downloads latest release"></a>
     <a href="https://github.com/adgellida/ubunsys/releases/latest" target="_blank"><img src="https://img.shields.io/badge/latest release-v2020.08.25-blue.svg" alt="latest release"></a>
-    <a href="https://github.com/adgellida/ubunsys/commits/master" target="_blank"><img src="https://img.shields.io/badge/maintained-active-green.svg" alt="maintained"></a>
+    <a href="https://github.com/adgellida/ubunsys/commits/master" target="_blank"><img src="https://img.shields.io/badge/maintained-paused-orange.svg" alt="maintained"></a>
     <a href="https://github.com/adgellida/ubunsys/releases"><img src="https://img.shields.io/badge/platform-Linux-lightgrey.svg" alt="Platforms"></a>
     <a href="https://github.com/adgellida/ubunsys/releases"><img src="https://img.shields.io/badge/status-alpha-orange.svg" alt="Status"></a>
     <a href="https://github.com/LewisVo/Awesome-Linux-Software/#utilities"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
-	<a href="https://www.codacy.com/app/adgellida/ubunsys?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=adgellida/ubunsys&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/f33896b9ff894ab3a0862ada0835deaa"/></a>
 </p>
 
 <p align="center">
@@ -28,13 +27,11 @@
 	<a href="https://twitter.com/ubunsys_app" target="_blank"><img src="https://img.shields.io/twitter/follow/ubunsys_app.svg?style=social&label=Follow" alt="twitter"></a>
 	<a href="https://gitter.im/adgellida/ubunsys" target="_blank"><img src="https://badges.gitter.im/adgellida/ubunsys.svg" alt="chat"></a>
 	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=84KHR9VLK7XK8" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate to project"></a> <a href="https://www.paypal.me/adgellida" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal.me-green.svg" alt="Donate to developer"></a>
-	<a href="https://www.bountysource.com/teams/ubunsys" target="_blank"><img src="https://img.shields.io/bountysource/team/ubunsys/activity.svg" alt="Donate with Bountysource"></a>
 </p>
 
 <p align="left">
 	<a href="https://forthebadge.com/" target="_blank"><img src="https://raw.githubusercontent.com/adgellida/ubunsys/master/src/images/made-with-qt.png" alt="forthebadge"></a>
 	<a href="https://www.qt.io" target="_blank"><img src="https://img.shields.io/badge/qt version-v5.9.5-green.svg" alt="qt version"></a>
-	<a href="http://www.somsubhra.com/github-release-stats/?username=adgellida&repository=ubunsys" target="_blank"><img src="https://raw.githubusercontent.com/adgellida/ubunsys/master/src/images/github-release-stats.png" alt="github release stats"></a>
 </p>
 
 Instalador de una lista de paquetes útiles, capaz de hacer cambios en la configuración del sistema, actualizaciones, ejecutar mejoras, arreglos, ejecutando acciones a golpe de click de ratón.
